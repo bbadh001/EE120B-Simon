@@ -1,8 +1,7 @@
 # EE120B Final Project: “Simon…on a breadboard!”
-Brent Badhwar
-Summer 2017
+Brent Badhwar . Summer 2017
 
-*Overview:*
+**Overview:**
 “Simon…on a breadboard!” is a throwback to the hand-held game “Simon” released in
 the late 70’s. “Simon” is a memory game, requiring you to duplicate the random series of light
 patterns displayed by the computer. On each successive round, a new light is added to the
