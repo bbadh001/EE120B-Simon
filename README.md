@@ -1,6 +1,6 @@
 # EE120B Final Project: “Simon…on a breadboard!”
-Brent Badhwar
-Summer 2017
+By: Brent Badhwar
+(Summer 2017)
 
 ## Overview:
 
