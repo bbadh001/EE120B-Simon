@@ -11,10 +11,10 @@ series for you to copy. Once you fail to copy the series correctly, it’s game 
 
 ## Hardware Components:
 
--4 LED’s (used to display the lighting sequence)
--5 buttons (4 to trigger each their respective LED and one as a start/continue button)
--LCD display (to display the player’s score and whether they won or lost)
--AtMega1284 microcontroller
+*4 LED’s (used to display the lighting sequence)
+*5 buttons (4 to trigger each their respective LED and one as a start/continue button)
+*LCD display (to display the player’s score and whether they won or lost)
+*AtMega1284 microcontroller
 
 ## How to Play:
 
